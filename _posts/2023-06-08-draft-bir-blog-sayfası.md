@@ -1,6 +1,6 @@
 ---
 title: Draft bir blog sayfası
-date:
+date: 2023-06-08 16:29:01
 categories:
   - Property
 author_staff_member: /staff_members/john-doe
