@@ -1,6 +1,6 @@
 ---
 name: Berk
-image: //placebear.com/440/440?a=.png
+image: /apple-touch-icon.png
 credentials: BB
 phone_extension:
 ---
