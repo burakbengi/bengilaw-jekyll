@@ -1,6 +1,6 @@
 ---
 name: Berk
-image: /apple-touch-icon.png
+image: /uploads/berk-business.jpg
 credentials: BB
 phone_extension:
 ---
