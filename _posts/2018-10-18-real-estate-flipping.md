@@ -3,7 +3,7 @@ title: Real Estate Flipping
 date: 2018-10-18 06:00:00 +0300
 categories:
   - Property
-author_staff_member: /staff_members/berk
+author_staff_member: berk
 image: https://unsplash.it/600/450?image=448&a=.png
 large_header: false
 ---

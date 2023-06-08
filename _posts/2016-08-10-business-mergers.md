@@ -3,7 +3,7 @@ title: Business Mergers
 date: 2016-08-10 03:00:00 +0300
 categories:
   - Business
-author_staff_member: /staff_members/berk
+author_staff_member: berk
 image: https://unsplash.it/600/450?image=737&a=.png
 large_header: false
 ---
