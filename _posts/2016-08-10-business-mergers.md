@@ -3,7 +3,7 @@ title: Business Mergers
 date: 2016-08-10 00:00:00
 categories:
   - Business
-author_staff_member: /staff_members/john-doe
+author_staff_member: /staff_members/berk
 image: https://unsplash.it/600/450?image=737&a=.png
 large_header: false
 ---
