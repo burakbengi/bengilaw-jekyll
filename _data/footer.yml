@@ -13,18 +13,18 @@
 - title: Social
   links:
     - name: Facebook
-      link: http://facebook.com/cloudcannon/
+      link: http://facebook.com/blabla/
       social_icon: Facebook
       new_window: true
     - name: Twitter
-      link: http://twitter.com/cloudcannon
+      link: http://twitter.com/blabla
       social_icon: Twitter
       new_window: true
     - name: Instagram
-      link: http://instagram.com/
+      link: http://instagram.com/blabla
       social_icon: Instagram
       new_window: true
     - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon/
+      link: https://www.linkedin.com/blabla/
       social_icon: LinkedIn
       new_window: true
