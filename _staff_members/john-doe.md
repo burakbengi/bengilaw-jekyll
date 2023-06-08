@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Berk Bengi
 image: //placebear.com/440/440?a=.png
 credentials: LLM
 phone_extension: '11'
