@@ -33,9 +33,7 @@ Profits from flipping real estate come from either buying low and selling high (
 
 Under the "fix and flip" scenario, an investor or flipper will purchase a property at a discount price. The discount may be because of:
 
-the property's condition (e.g., the house needs major renovations and/or repairs which the owner either does not want, or cannot afford, to do), or
-the owner(s) needing to sell a property quickly (e.g., relocation, divorce, pending foreclosure).
-The investor will then perform necessary renovations and repairs, and attempt to make a profit by selling the house quickly at a higher price. The "fix and flip" scenario is profitable to investors because the average homebuyer lacks the time and funds to repairs and renovations, so they look for a property that is ready to move into. Also, most traditional mortgage lenders require the home to be habitable with no significant repairs.
+the property's condition (e.g., the house needs major renovations and/or repairs which the owner either does not want, or cannot afford, to do), or the owner(s) needing to sell a property quickly (e.g., relocation, divorce, pending foreclosure). The investor will then perform necessary renovations and repairs, and attempt to make a profit by selling the house quickly at a higher price. The "fix and flip" scenario is profitable to investors because the average homebuyer lacks the time and funds to repairs and renovations, so they look for a property that is ready to move into. Also, most traditional mortgage lenders require the home to be habitable with no significant repairs.
 
 ![](https://unsplash.it/960/350?image=442){: width="960" height="350"}
 
