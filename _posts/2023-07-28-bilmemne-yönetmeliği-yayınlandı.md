@@ -3,7 +3,7 @@ title: Bilmemne Yönetmeliği Yayınlandı
 date: 2023-07-28 00:00:00 +0300
 categories:
   - Property
-author_staff_member:
+author_staff_member: /staff_members/nazli
 image: /uploads/levent-istanbul-at-night.jpg
 large_header: true
 ---
